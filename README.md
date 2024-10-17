@@ -4,8 +4,14 @@
 
 Bem-vindo ao projeto **Encrypt Message GUI V2**, uma aplicação **desktop** desenvolvida em Python com PyQt5 para **encriptação e desencriptação de mensagens**. 🛡️✨ Este projeto faz parte do portfólio de Elias Andrade, com mais de 14 anos de experiência em infraestrutura de TI e um hobby especial por criptografia 🧑‍💻🔒. 
 
+![d632b1d9-90ec-405d-9060-3b783e92d400](https://github.com/user-attachments/assets/f4e7e7ea-0d6d-41d0-bc6a-7b121759d2c7)
+
 ## 📜 Sobre o Projeto
 O projeto **Encrypt Message GUI V2** é uma aplicação gráfica que utiliza a biblioteca **Fernet** da [Cryptography](https://cryptography.io) para garantir a segurança e proteção das mensagens que você deseja criptografar ou descriptografar. A interface gráfica foi construída utilizando **PyQt5**, trazendo uma experiência simples e eficiente para quem quer proteger suas informações com poucos cliques. 🎨
+
+![python_ofL4Cbo2BK](https://github.com/user-attachments/assets/01bfe439-5fa9-4158-85eb-4ac49dd26e40)
+![python_gfscsEhaPY](https://github.com/user-attachments/assets/18e59ffb-a4da-421e-a7db-420e25cb6b9e)
+
 
 ### 💡 Tecnologias Utilizadas:
 - **Python** 🐍
