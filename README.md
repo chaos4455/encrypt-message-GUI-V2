@@ -21,8 +21,8 @@ O projeto **Encrypt Message GUI V2** é uma aplicação gráfica que utiliza a b
 - **PBKDF2HMAC** para derivação de chave 🔐
 
 **Arquivos principais:**
-- [streamlit-messagem-crypt-encrypt-decrypt.py](https://github.com/chaos4455/encrypt-message-GUI-V2/blob/main/streamlit-messagem-crypt-encrypt-decrypt.py) (Interface gráfica com **PyQt5**)
-- [encript-message-new-v1.py](https://github.com/chaos4455/encrypt-message-GUI-V2/blob/main/encript-message-new-v1.py) (Processamento com **Streamlit**)
+- [streamlit-messagem-crypt-encrypt-decrypt.py](https://github.com/chaos4455/encrypt-message-GUI-V2/blob/main/streamlit-messagem-crypt-encrypt-decrypt.py) (Interface web com **Streamlit**)
+- [encript-message-new-v1.py](https://github.com/chaos4455/encrypt-message-GUI-V2/blob/main/encript-message-new-v1.py) (Interface gráfica com **PyQt5**)
 
 ## 🌟 Funcionalidades
 ✅ Criptografa e descriptografa mensagens usando o algoritmo **Fernet**  
