@@ -34,6 +34,14 @@ O projeto **Encrypt Message GUI V2** é uma aplicação gráfica que utiliza a b
 ## 📋 Objetivo do Projeto
 Este projeto foi desenvolvido como parte do **portfólio de aplicações desktop com Python**, focando no uso de criptografia e interfaces gráficas. Além disso, o objetivo é demonstrar habilidades avançadas no desenvolvimento de **aplicações seguras**, robustas e amigáveis ao usuário. 🔐📱
 
+## 🛠️ Instalação das Bibliotecas
+
+Para instalar todas as bibliotecas necessárias para o funcionamento da aplicação, você pode usar o seguinte comando:
+
+```bash
+pip install PyQt5 cryptography streamlit pyyaml
+```
+
 ## 🧰 Bibliotecas e Dependências
 As principais bibliotecas utilizadas neste projeto são:
 - **PyQt5** ![PyQt5](https://img.shields.io/badge/PyQt5-5.15.4-green.svg?style=flat-square&logo=qt)
