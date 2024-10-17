@@ -57,4 +57,4 @@ O foco principal foi criar uma interface simples e intuitiva para que qualquer u
 
 📌 Desenvolvido por: Elias Andrade
 📫 Contato: oeliasandrade@gmail.com
-🌐 LinkedIn: linkedin.com/in/itilmgf
+🌐 LinkedIn: [linkedin.com/in/itilmgf](https://br.linkedin.com/in/itilmgf)
