@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=flat-square&logo=python&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-red.svg?style=flat-square&logo=qt&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-Fernet-ff69b4.svg?style=flat-square&logo=cryptography&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
 
-Bem-vindo ao projeto **Encrypt Message GUI V2**, uma aplicação **desktop** desenvolvida em Python com PyQt5 para **encriptação e desencriptação de mensagens**. 🛡️✨ Este projeto faz parte do portfólio de Elias Andrade, com mais de 14 anos de experiência em infraestrutura de TI e um hobby especial por criptografia 🧑‍💻🔒. 
+Bem-vindo ao projeto **Encrypt Message GUI V2**, uma aplicação **desktop** desenvolvida em Python com PyQt5 para **encriptação e desencriptação de mensagens**. 🛡️✨ Este projeto faz parte do meu portfólio de criptografia e python, com mais de 14 anos de experiência em infraestrutura de TI e um hobby especial por criptografia 🧑‍💻🔒. 
 
 ![d632b1d9-90ec-405d-9060-3b783e92d400](https://github.com/user-attachments/assets/f4e7e7ea-0d6d-41d0-bc6a-7b121759d2c7)
 
